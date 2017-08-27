@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{086D4A70-5573-4C0E-9066-DE6A863881CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetFlix.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D55B962-E338-45AC-8B37-EA7B0F3EC530">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NetFlix.iOS>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
